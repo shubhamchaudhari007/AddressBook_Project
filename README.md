@@ -107,6 +107,7 @@ Email → 50 chars
 
 Input validation is basic but educational.
 
+---
 
 ## Ideal for understanding:
 
@@ -117,6 +118,8 @@ Input validation is basic but educational.
 🔄 Loops & Menus
 
 📂 Modular design with multiple .c and .h files
+
+---
 
 ## 🔧 Extensibility
 You can enhance this project by adding:
@@ -138,6 +141,8 @@ You can enhance this project by adding:
 
 🧠 Learners who want hands-on practice with structs and arrays
 
+---
+
 ## 🧩 Why This Project?
 Simple yet powerful C application
 
@@ -146,6 +151,8 @@ Demonstrates real-world concepts of data storage and searching
 Teaches modular design and code reusability
 
 Fully terminal-based — perfect for beginners
+
+---
 
 ## 🤝 Contributing
 Want to improve this project?
@@ -158,6 +165,8 @@ Add new features or fix bugs
 Update this README.md with your changes
 
 Submit a pull request 🚀
+
+---
 
 ## 🧾 License
 This project is open for learning and personal use.
