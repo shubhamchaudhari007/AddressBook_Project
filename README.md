@@ -92,6 +92,8 @@ Ensure each contact has a unique phone number and email.
 Always use the Save Contacts option before exiting to retain data.
 
 On next launch, the program automatically loads existing contacts.
+
+```
 ---
 
 ###🧠 Notes for Beginners
@@ -105,7 +107,8 @@ Email → 50 chars
 
 Input validation is basic but educational.
 
-Ideal for understanding:
+
+## Ideal for understanding:
 
 🧩 struct
 
@@ -156,6 +159,6 @@ Update this README.md with your changes
 
 Submit a pull request 🚀
 
-🧾 License
+## 🧾 License
 This project is open for learning and personal use.
 You are free to use, modify, and publish it under your own repository.
