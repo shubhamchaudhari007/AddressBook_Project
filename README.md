@@ -92,8 +92,9 @@ Ensure each contact has a unique phone number and email.
 Always use the Save Contacts option before exiting to retain data.
 
 On next launch, the program automatically loads existing contacts.
+---
 
-🧠 Notes for Beginners
+###🧠 Notes for Beginners
 Uses fixed-size arrays for simplicity:
 
 Name → 50 chars
@@ -114,7 +115,7 @@ Ideal for understanding:
 
 📂 Modular design with multiple .c and .h files
 
-🔧 Extensibility
+## 🔧 Extensibility
 You can enhance this project by adding:
 
 🏠 Address or birthday fields
@@ -134,7 +135,7 @@ You can enhance this project by adding:
 
 🧠 Learners who want hands-on practice with structs and arrays
 
-🧩 Why This Project?
+## 🧩 Why This Project?
 Simple yet powerful C application
 
 Demonstrates real-world concepts of data storage and searching
@@ -143,7 +144,7 @@ Teaches modular design and code reusability
 
 Fully terminal-based — perfect for beginners
 
-🤝 Contributing
+## 🤝 Contributing
 Want to improve this project?
 Here’s how you can contribute:
 
