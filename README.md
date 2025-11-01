@@ -37,10 +37,15 @@ Contacts are stored in memory and can be saved to a file for future use.
 ## 🧩 File Structure
 📁 AddressBook-NewDesign
 │
+
 ├── main.c # Main program and menu interface
+
 ├── contact.h/.c # Core contact logic (add, search, edit, delete, validation)
+
 ├── searchsort.c # Searching and sorting functions
+
 ├── file.h/.c # File handling (save/load contacts)
+
 └── contacts.csv # Example data file
 
 ---
@@ -52,7 +57,9 @@ Name,Phone,Email
 Example:
 3
 Ajay Dubey,9901234589,ajay.dubey@email.com
+
 Riya Sharma,9823456712,riya.sharma@email.com
+
 Rohan Patil,9765432189,rohan.patil@email.com
 
 
@@ -61,16 +68,22 @@ Rohan Patil,9765432189,rohan.patil@email.com
 ## ⚙️ Build and Run
 
 ### 🧮 Compile
-```bash
+```
 gcc *.c -o address_book
 ▶️ Run
-bash
+
 
 ./address_book
 💻 Usage Guide
 When you run the program, you’ll see a menu like this:
 
-markdown
+```
+
+---
+
+## 🧾 Output
+
+```
 
 ===== ADDRESS BOOK MENU =====
 1. Add New Contact
@@ -134,7 +147,9 @@ You can enhance this project by adding:
 
 🖥️ GUI version using GTK or web-based interface
 
-🧰 Suitable For
+---
+
+## 🧰 Suitable For
 🎓 Students learning C programming and file handling
 
 🧑‍💻 Developers building simple data management applications
